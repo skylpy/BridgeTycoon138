@@ -1,0 +1,27 @@
+# Cocos Creator
+temp/
+library/
+local/
+profiles/
+build/
+Build/
+
+# Nested Cocos project folders
+**/temp/
+**/library/
+**/local/
+**/profiles/
+**/build/
+**/Build/
+
+# Logs
+*.log
+logs/
+**/logs/
+
+# Node
+node_modules/
+**/node_modules/
+
+# macOS
+.DS_Store

@@ -1,0 +1,8 @@
+{
+  "vehicleSpawnInterval": 2,
+  "offlineMaxSeconds": 28800,
+  "autoSaveInterval": 5,
+  "adMockSuccessRate": 0.9,
+  "autoIncomeInterval": 1
+}
+

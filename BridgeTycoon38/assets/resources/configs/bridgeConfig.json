@@ -1,0 +1,163 @@
+[
+  {
+    "level": 1,
+    "name": "木板小桥",
+    "upgradeCost": 100,
+    "clickIncome": 1,
+    "vehicleIncome": 5,
+    "idleIncomePerSecond": 1
+  },
+  {
+    "level": 2,
+    "name": "加固木桥",
+    "upgradeCost": 220,
+    "clickIncome": 2,
+    "vehicleIncome": 10,
+    "idleIncomePerSecond": 2
+  },
+  {
+    "level": 3,
+    "name": "乡村木桥",
+    "upgradeCost": 480,
+    "clickIncome": 4,
+    "vehicleIncome": 18,
+    "idleIncomePerSecond": 4
+  },
+  {
+    "level": 4,
+    "name": "石板小桥",
+    "upgradeCost": 950,
+    "clickIncome": 7,
+    "vehicleIncome": 30,
+    "idleIncomePerSecond": 7
+  },
+  {
+    "level": 5,
+    "name": "青石拱桥",
+    "upgradeCost": 1800,
+    "clickIncome": 12,
+    "vehicleIncome": 48,
+    "idleIncomePerSecond": 12
+  },
+  {
+    "level": 6,
+    "name": "河畔石桥",
+    "upgradeCost": 3300,
+    "clickIncome": 20,
+    "vehicleIncome": 75,
+    "idleIncomePerSecond": 20
+  },
+  {
+    "level": 7,
+    "name": "钢筋桥",
+    "upgradeCost": 5800,
+    "clickIncome": 32,
+    "vehicleIncome": 112,
+    "idleIncomePerSecond": 32
+  },
+  {
+    "level": 8,
+    "name": "钢架桥",
+    "upgradeCost": 9600,
+    "clickIncome": 50,
+    "vehicleIncome": 165,
+    "idleIncomePerSecond": 50
+  },
+  {
+    "level": 9,
+    "name": "双车道桥",
+    "upgradeCost": 15000,
+    "clickIncome": 76,
+    "vehicleIncome": 235,
+    "idleIncomePerSecond": 76
+  },
+  {
+    "level": 10,
+    "name": "城镇大桥",
+    "upgradeCost": 23000,
+    "clickIncome": 112,
+    "vehicleIncome": 330,
+    "idleIncomePerSecond": 112
+  },
+  {
+    "level": 11,
+    "name": "城市高架桥",
+    "upgradeCost": 34000,
+    "clickIncome": 160,
+    "vehicleIncome": 455,
+    "idleIncomePerSecond": 160
+  },
+  {
+    "level": 12,
+    "name": "快速通行桥",
+    "upgradeCost": 50000,
+    "clickIncome": 225,
+    "vehicleIncome": 620,
+    "idleIncomePerSecond": 225
+  },
+  {
+    "level": 13,
+    "name": "江面大桥",
+    "upgradeCost": 72000,
+    "clickIncome": 310,
+    "vehicleIncome": 835,
+    "idleIncomePerSecond": 310
+  },
+  {
+    "level": 14,
+    "name": "山谷悬索桥",
+    "upgradeCost": 102000,
+    "clickIncome": 420,
+    "vehicleIncome": 1110,
+    "idleIncomePerSecond": 420
+  },
+  {
+    "level": 15,
+    "name": "跨江大桥",
+    "upgradeCost": 145000,
+    "clickIncome": 560,
+    "vehicleIncome": 1460,
+    "idleIncomePerSecond": 560
+  },
+  {
+    "level": 16,
+    "name": "跨海大桥",
+    "upgradeCost": 205000,
+    "clickIncome": 735,
+    "vehicleIncome": 1900,
+    "idleIncomePerSecond": 735
+  },
+  {
+    "level": 17,
+    "name": "超级立交桥",
+    "upgradeCost": 288000,
+    "clickIncome": 960,
+    "vehicleIncome": 2450,
+    "idleIncomePerSecond": 960
+  },
+  {
+    "level": 18,
+    "name": "智能交通桥",
+    "upgradeCost": 400000,
+    "clickIncome": 1250,
+    "vehicleIncome": 3150,
+    "idleIncomePerSecond": 1250
+  },
+  {
+    "level": 19,
+    "name": "未来科技桥",
+    "upgradeCost": 560000,
+    "clickIncome": 1620,
+    "vehicleIncome": 4050,
+    "idleIncomePerSecond": 1620
+  },
+  {
+    "level": 20,
+    "name": "天空巨桥",
+    "upgradeCost": 0,
+    "clickIncome": 2100,
+    "vehicleIncome": 5200,
+    "idleIncomePerSecond": 2100
+  }
+]
+

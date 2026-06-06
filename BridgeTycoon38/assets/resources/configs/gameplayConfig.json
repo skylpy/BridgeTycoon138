@@ -1,0 +1,40 @@
+{
+  "buildPreview": {
+    "enabled": true,
+    "validColor": "#62D26F",
+    "warningColor": "#FFD95A",
+    "invalidColor": "#E84C3D",
+    "lineWidth": 5,
+    "minSegmentLength": 25,
+    "maxSegmentLength": 180,
+    "longSegmentWarningLength": 130
+  },
+  "snap": {
+    "enabled": true,
+    "snapRadius": 24,
+    "anchorSnapRadius": 32,
+    "showSnapHighlight": true,
+    "highlightColor": "#FFE066"
+  },
+  "stressVisual": {
+    "enabled": true,
+    "normalColor": "#F2C230",
+    "lowStressColor": "#F5A623",
+    "highStressColor": "#F28C28",
+    "dangerColor": "#E84C3D",
+    "brokenColor": "#4A4A4A",
+    "lowThreshold": 0.35,
+    "highThreshold": 0.65,
+    "dangerThreshold": 0.85
+  },
+  "deckFeedback": {
+    "enabled": true,
+    "carSink": 3,
+    "truckSink": 7,
+    "busSink": 10,
+    "heavyTruckSink": 12,
+    "recoverSpeed": 8,
+    "shakeOnDanger": true,
+    "shakeAmplitude": 4
+  }
+}

@@ -1,0 +1,19 @@
+cat > .gitignore <<'EOF'
+# Cocos Creator
+temp/
+library/
+local/
+profiles/
+build/
+Build/
+
+# Logs
+*.log
+logs/
+
+# Node
+node_modules/
+
+# macOS
+.DS_Store
+EOF

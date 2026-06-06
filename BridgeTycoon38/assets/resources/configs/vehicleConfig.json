@@ -1,0 +1,24 @@
+[
+  {
+    "type": "car",
+    "name": "小汽车",
+    "speed": 180,
+    "incomeMultiplier": 1,
+    "color": "#4DA3FF"
+  },
+  {
+    "type": "truck",
+    "name": "货车",
+    "speed": 130,
+    "incomeMultiplier": 2,
+    "color": "#F5A623"
+  },
+  {
+    "type": "bus",
+    "name": "巴士",
+    "speed": 110,
+    "incomeMultiplier": 3,
+    "color": "#7ED321"
+  }
+]
+
